@@ -37,15 +37,6 @@ I build AI products from zero to exit. Currently exploring what's next at the in
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=magacek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true)](https://github.com/magacek)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=magacek&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8)](https://github.com/magacek)
-
-</div>
-
----
-
-<div align="center">
-
 [![Website](https://img.shields.io/badge/mattgacek.ai-000000?style=flat&logo=safari&logoColor=white)](https://mattgacek.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/magacek)
 [![X](https://img.shields.io/badge/@TheMattGacek-000000?style=flat&logo=x&logoColor=white)](https://x.com/TheMattGacek)
