@@ -7,7 +7,7 @@ I build AI products from zero to exit. Currently exploring what's next at the in
 ### A bit about me
 
 - 🚀 Founded [Squib](https://heysquib.com) — AI-powered social media management platform for agencies (multi-channel persona engine, voice cloning, RAG pipelines, agent orchestration across 9 platforms)
-- 🧠 Founded Theia — AI therapy platform (acquired by [Miri](https://www.mirihealth.com))
+- 🧠 Founded Theia — AI therapy platform (acquired by [Miri](https://www.miri.ai))
 - 🔬 Founded Sapienix — (acquired)
 - 🎓 CS @ Indiana University · [TechPoint Student Entrepreneur of the Year 2024](https://techpoint.org)
 - 📍 San Diego, CA
